@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Indoriya, B-Tech Computer Science Graduate.
-- 👀 I’m interested in Python and Flutter App Developement . 
-- 🌱 I’m currently learning Flutter( which is amazing 🤩)
+- 💼 Working on Python, Selenium, API testing, and Automation. 
+- 🌱 Learning Java...
 - 📫 How to reach me <b>sachinindoriya63@gmail.com</b>
 
 <!---
